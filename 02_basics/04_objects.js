@@ -55,3 +55,17 @@ console.log(tinduser);
 console.log(Object.keys(tinduser));
 console.log(Object.values(tinduser));
 console.log(Object.entries(tinduser));//makes array of entries
+
+
+const course ={
+    coursename: "js",
+    fees:"999",
+    teacher:"hitesh"
+    
+}
+
+const {teacher} =course
+
+console.log(teacher);
+
+
