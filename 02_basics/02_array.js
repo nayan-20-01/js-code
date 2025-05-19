@@ -15,3 +15,8 @@ console.log(usableArr)
 console.log(Array.isArray("Nayan"))
 console.log(Array.from("nayan"))
 console.log(Array.from({name: "nayan"}))//interesting- returns empty array because dony knoq what to do
+
+let sc1=100
+let sc2=200
+let sc3=300
+console.log(Array.of(sc1, sc2, sc3 ))
