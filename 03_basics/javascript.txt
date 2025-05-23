@@ -1,0 +1,12 @@
+javascrpit execution context
+
+{}-> Global EC(diff in console and platform)
+->fuction EC
+->eval EC
+
+code run in two phase
+1:Memory creation phase
+2:Excution phase
+
+order:
+global EC< Memory phase< Excution phase
